@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @brockOil
-- 👀 I’m interested in Embedded systems, Machine Learning, Control Systems, and your mom
+- 👀 I’m interested in Embedded systems, Machine Learning, Control System, Etc..
 - 🌱 I’m currently working on a few ML/DL, Embedded systems projects
 - 💞️ I’m looking to collaborate on Projects, Start-ups, etc
 - 📫 U can reach me on Instagram: https://www.instagram.com/sameer_bhandiwad

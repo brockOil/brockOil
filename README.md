@@ -1,5 +1,5 @@
 - Hi, I’m @brockOil
-- I’m interested in Embedded systems, Machine Learning, Control System, Web Dev Etc..
+- I’m interested in Embedded systems, Machine Learning, Control System, Full Stack Web-Dev, etc..
 - I’m currently working on a few ML/DL, Embedded systems projects
 
 # 💻 Tech Stack:
